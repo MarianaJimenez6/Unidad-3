@@ -1,0 +1,4 @@
+DNI,nombre,direccion,telefono,fecha_inicio_contrato, fecha_fin_contrato,horas_trabajadas,valor_hora = 50
+30444555,	Mariana,	Av. Libertador San Martin 755 (Oeste),	2645000666,	10/05/2023,	2014/12/02,	8,	700
+40888999,	Lucia,	San juan 345(norte),	2645000333,	20/04/2023,	2024/12/10,	6,	50000
+25777666,	Norberto,	Santiago del estero 3030(sur),	2644000222,	02/02/2022,	2024/03/03,	5,	75000

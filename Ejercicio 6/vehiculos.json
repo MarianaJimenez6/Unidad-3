@@ -1,0 +1,53 @@
+{
+"__class__": "Lista",
+"Vehiculo": [
+    {
+        "__class__": "Usado",
+        "__atributos__": {
+            "modelo": "cabriolet",
+            "puertas": 3,
+            "color": "marron",
+            "preciobase": 3500,
+            "marca": "chevrolet",
+            "patente": "ILC430",
+            "anio": 1980,
+            "kilometraje": 300000
+        }
+    },
+    {
+        "__class__": "Usado",
+        "__atributos__": {
+            "modelo": "falcon",
+            "puertas": 5,
+            "color": "verde",
+            "preciobase": 2500,
+            "marca": "ford",
+            "patente": "UGD453",
+            "anio": 1985,
+            "kilometraje": 25000
+        }
+    },
+    {
+        "__class__": "Nuevo",
+        "__atributos__": {
+            "modelo": "axion",
+            "puertas": "3",
+            "color": "azul",
+            "preciobase": "20000",
+            "marca": "ford",
+            "version": "base"
+        }
+    },
+    {
+        "__class__": "VehiculoNuevo",
+        "__atributos__": {
+            "modelo": "palio",
+            "puertas": "4",
+            "color": "blanco",
+            "preciobase": "10000",
+            "marca": "palio",
+            "version": "full"
+        }
+    }
+]
+}
